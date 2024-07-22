@@ -1,0 +1,88 @@
+const list = [
+    {
+      id: 1,
+      title: "SG Phoenix Xtremecricket bat",
+      price: 5600,
+      img: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8XPWJ9sSFo6e1qhzyBW8IRWF-La3aahOzYD9BINouX_t197byWRjBy5u7jrxoQlR7m7PcpUY7wCXJvFUpXvZkiJeKNW0YdhemIo_vx1ct0mRrtJF9OvIt&usqp=CAE",
+      amount: 1,
+    },
+    {
+      id: 2,
+      title: "New Balance English Willow",
+      price: 4600,
+      img: "https://m.media-amazon.com/images/I/81VttakVp9L._SY879_.jpg",
+      amount: 1,
+    },
+    {
+      id: 3,
+      title: "SS Kw0200 Vintage Bolt Kashmir Willow",
+      price: 8000,
+      img: "https://m.media-amazon.com/images/I/71DFREX3jWL._SX569_.jpg",
+      amount: 1,
+    },
+    {
+      id: 4,
+      title: "AK GM Diamond Black Kashmir Willow",
+      price: 11000,
+      img: "https://m.media-amazon.com/images/I/31T0q6tZFOL.jpg",
+      amount: 1,
+    },
+    {
+      id: 5,
+      title: "SG Scorer Classic Kashmir Willow ",
+      price: 5500,
+      img: "https://m.media-amazon.com/images/I/31CSDuo4RlL._SX300_SY300_QL70_FMwebp_.jpg",
+      amount: 1,
+    },
+    {
+      id: 6,
+      title: "Grey Nicholls English willow",
+      price: 8500,
+      img: "https://m.media-amazon.com/images/I/71TiMJGqVdL._SY879_.jpg",
+      amount: 1,
+    },
+    {
+      id: 7,
+      title: "SF Signature Cricket BAT",
+      price: 10500,
+      img: "https://m.media-amazon.com/images/I/41T7Q07jhjL.jpg",
+      amount: 1,
+    },
+    {
+      id: 8,
+      title: "DSC English Willow",
+      price: 12000,
+      img: "https://m.media-amazon.com/images/I/414dWw05D9L._SX300_SY300_QL70_FMwebp_.jpg",
+      amount: 1,
+    },
+    {
+      id: 9,
+      title: "CEAT ROhit Sharma Edition",
+      price: 8000,
+      img: "https://m.media-amazon.com/images/I/41Z9QaAVyaL._SX569_.jpg",
+      amount: 1,
+    },
+    {
+      id: 10,
+      title:"MRF Virat Kohli Edition",
+      price: 8600,
+      img: "https://m.media-amazon.com/images/I/61BwtMAKHCL._SX569_.jpg",
+      amount: 1,
+    },
+    {
+      id: 11,
+      title: "Prokick Stellar Kashmir Willow",
+      price: 12000,
+      img: "https://m.media-amazon.com/images/I/61ga5yUGaCL._SX569_.jpg",
+      amount: 1,
+    },
+    {
+      id: 12,
+      title: "SS Super power kw bat Grade 5",
+      price: 15600,
+      img: "https://m.media-amazon.com/images/I/31MCw8ah1TL._SX300_SY300_QL70_FMwebp_.jpg",
+      amount: 1,
+    },
+];
+
+export default list;
